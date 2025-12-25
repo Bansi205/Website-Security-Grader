@@ -65,6 +65,6 @@
 ``Enter website URL: https://example.com`` 
 
 ## Author 
-- Tirthraj Bhalodiya
-- tirthrajbhalodiya2003@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/tirthraj-bhalodiya-97534b227/)
+- Bansi Dalsaniya
+- bansidalsaniya113@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/bansi-dalsaniya-3479513a2/)
